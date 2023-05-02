@@ -2,6 +2,10 @@
 
 A new Flutter project.
 
+## Demo
+
+![pic_sharing_app](https://user-images.githubusercontent.com/99090844/235730574-0a7c64ac-489b-4c70-b725-bf79d0f4aa01.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
